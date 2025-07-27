@@ -4,7 +4,7 @@ img{
 
 h1{
     border-radius: 15px;
-   
+   color: #FFFFFF;
     width: 190px;
 }
 p{
@@ -14,4 +14,35 @@ border-radius: 15px;
 }    
 input{
     display: block;
+}
+footer{
+    background-color: #2F303A;
+}
+.list
+{
+
+    background-color:#2F303A ;
+}
+button{
+    background-color: #2196F3;
+    color: #FFFFFF;
+    border: none;
+}
+.lil{
+    color: #2196F3;
+}
+li{
+    color: #212121;
+}
+.grey{
+    color: #757575;
+}
+.beli{
+    color: #FFFFFF;
+}
+.rgb{
+color: #FFFFFF;
+}
+span{
+    color: #2196F3;
 }
