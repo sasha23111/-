@@ -1,11 +1,33 @@
-img{
-    width: 100px;
+.computers{
+    width: 370;
+height: 294;
+top: 1058px;
+left: 215px;
+angle: 0 deg;
+opacity: 1;
+
+}
+.photo{
+width: 270px;
+height: 260;
+top: 1632px;
+left: 815px;
+
+opacity: 1;
+
 }
 
 h1{
-    border-radius: 15px;
+  
    color: #FFFFFF;
-    width: 190px;
+   width: 696px;
+font-weight: 900;
+font-size: 44px;
+line-height: 60px;
+letter-spacing: 6%;
+text-align: center;
+
+
 }
 p{
 border-radius: 15px;
@@ -27,6 +49,13 @@ button{
     background-color: #2196F3;
     color: #FFFFFF;
     border: none;
+font-weight: 700;
+font-size: 16px;
+line-height: 30px;
+letter-spacing: 6%;
+text-align: center;
+vertical-align: middle;
+
 }
 .lil{
     color: #2196F3;
@@ -36,13 +65,79 @@ li{
 }
 .grey{
     color: #757575;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 3%;
+text-align: center;
+
 }
 .beli{
     color: #FFFFFF;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 3%;
+
 }
 .rgb{
 color: #FFFFFF;
+font-family: Raleway;
+font-weight: 700;
+font-size: 26px;
+line-height: 100%;
+letter-spacing: 3%;
+
 }
 span{
     color: #2196F3;
+}
+body{
+    font-family: Roboto;
+}
+.def{
+
+font-weight: 500;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 2%;
+}
+.verh{
+font-weight: 700;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 3%;
+text-transform: uppercase;
+
+}
+.greyt{
+
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 3%;
+color: #757575;
+}
+h2{
+font-weight: 700;
+font-size: 36px;
+line-height: 100%;
+letter-spacing: 3%;
+text-align: center;
+
+}
+.name{
+font-weight: 500;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 3%;
+text-align: center;
+
+}
+.niz{
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 3%;
+
 }
