@@ -7,7 +7,7 @@ angle: 0 deg;
 opacity: 1;
 
 }
-.photo{
+.team-picture{
 width: 270px;
 height: 260;
 top: 1632px;
@@ -45,7 +45,7 @@ footer{
 
     background-color:#2F303A ;
 }
-button{
+.hero-button{
     background-color: #2196F3;
     color: #FFFFFF;
     border: none;
@@ -63,7 +63,7 @@ vertical-align: middle;
 li{
     color: #212121;
 }
-.grey{
+.work-text{
     color: #757575;
 font-weight: 400;
 font-size: 16px;
@@ -126,7 +126,7 @@ letter-spacing: 3%;
 text-align: center;
 
 }
-.name{
+.team-name{
 font-weight: 500;
 font-size: 16px;
 line-height: 100%;
